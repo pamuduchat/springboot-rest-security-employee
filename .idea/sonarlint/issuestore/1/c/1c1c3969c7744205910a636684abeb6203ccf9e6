@@ -1,0 +1,11 @@
+
+l
+java:S1192("ODefine a constant instead of duplicating this literal "/api/employees" 3 times.(ß×âø8İ¯’€ò1
+X	java:S125;"<This block of commented-out lines of code should be removed.(ñÉˆÙ8ì¯’€ò1
+l
+java:S1128	"ORemove this unused import 'org.springframework.security.core.userdetails.User'.(–Ä€8ì¯’€ò1
+s
+java:S1128
+"VRemove this unused import 'org.springframework.security.core.userdetails.UserDetails'.(ÊÁ¥8ì¯’€ò1
+ƒ
+java:S1128"aRemove this unused import 'org.springframework.security.provisioning.InMemoryUserDetailsManager'.(îŒúùÿÿÿÿ8ì¯’€ò1
